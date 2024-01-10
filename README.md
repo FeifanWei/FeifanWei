@@ -1,8 +1,8 @@
-👋 Hi, I’m  FeifanWei
--Second-year student in the MS Analytics program at the University of Southern California 
--Currently studying data mining, predictive analytics, and machine learning
--The expected Graduation date is May 2024. 
--Actively looking for Data related jobs. 
+👋 Hi, I’m  FeifanWei  
+-Second-year student in the MS Analytics program at the University of Southern California  
+-Currently studying data mining, predictive analytics, and machine learning  
+-The expected Graduation date is May 2024.   
+-Actively looking for Data related jobs.  
 
 
 <!---
